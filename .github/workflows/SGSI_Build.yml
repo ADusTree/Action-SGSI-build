@@ -6,19 +6,20 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://ip2341096666.out.azhimalayanvh.com/Firmware/Flyme/meizu18_Pro/9.0.1.2/cn/20210527000410/acc3dace/update.zip?ali_redirect_domain=firmware.meizu.com'
+        default: 'http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2005_A_5.9.2-update-full_1620374790.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'update.zip'
+        default: 'PD2005_A_5.9.2-update-full_1620374790.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'origin'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Flyme9_18P_SGSI.zip'
+        default: 'Origin_X50pro_SGSI.zip'
+    
 
 
 
