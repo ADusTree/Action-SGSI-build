@@ -9,7 +9,6 @@ apps_dir="
 Email
 VivoTips
 vivoOffice
-VivoGallery
 iRoaming
 iRoamingService
 VideoPlayer
