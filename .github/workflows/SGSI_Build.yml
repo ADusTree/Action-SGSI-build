@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2005_A_5.9.2-update-full_1620374790.zip'
+        default: 'https://wlansysuptxdl.vivo.com.cn/upgrade/recovery/recoveryFiles/2021050620441804bf91db7204400d4dadadebeb931608.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'PD2005_A_5.9.2-update-full_1620374790.zip'
+        default: '2021050620441804bf91db7204400d4dadadebeb931608.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
@@ -18,7 +18,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Origin_X50pro_SGSI.zip'
+        default: 'Origin_iqooneo_SGSI.zip'
     
 
 
